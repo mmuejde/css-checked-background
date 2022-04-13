@@ -1,3 +1,3 @@
-# repo-template
+# css-checked-background
 
-![](preview.gif)
+![](preview.png)
